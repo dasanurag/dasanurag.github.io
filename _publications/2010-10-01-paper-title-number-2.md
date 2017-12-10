@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Copy-Move Forgery Detection using ASIFT"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'In this paper, we identify affine transform based Copy-Move forgeries in images. Copy-Move forgery is a type of image forgery where a portion of an image is pasted onto the same image so as alter its content. We compare the performance of ASIFT to that of SIFT in identifying such affine transformed copy-move forgeries. We show ASIFT outperforms SIFT in all of the test images, producing much larger number of keypoints per image and accurately identifying the forged regions.'
+date: 2016-07-13
+venue: 'India International Conference of Information Processing(IICIP)'
+paperurl: 'http://ieeexplore.ieee.org/abstract/document/7975329/'
+DOI: '10.1109/IICIP.2016.7975329'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+DOI: '10.1109/IICIP.2016.7975329'
