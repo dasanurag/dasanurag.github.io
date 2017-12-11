@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Contact"
+permalink: /contact/
+author_profile: true
+redirect_from:
+  - /md/
+  - /markdown.html
+---
+
+
 #Contact
 Pleace use the following contact information.
 
