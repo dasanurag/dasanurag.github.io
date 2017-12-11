@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Contact"
-permalink: /markdown/
-redirect_from: 
-  - /md/
-  - /markdown.html
+permalink: /contact/
+# redirect_from: 
+#  - /md/
+#  - /markdown.html
 author_profile: true
 ---
 
