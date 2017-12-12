@@ -33,16 +33,18 @@ Copy-Move Forgery Detection Using ASIFT
 image. This is done so as to alter the original information in the image.
 * Compared affine transfored copy-move forgeries in images using Scale Invariant Feature Transform(SIFT)
 and affine SIFT(ASIFT).
-* Compared affine transfored copy-move forgeries in images using Scale Invariant Feature Transform(SIFT)
-and affine SIFT(ASIFT).
+* Artficially affine transformed regions were introduced on existing images from the CoMoFoD database.
+These images were used for training and testing. AISFT was later shown to outperform SIFT in the Copy-Move Forgery Task.
+[Please find the Project Description here](https://dasanurag.github.io/publications/)
 
 Image Splicing Detection Using Gaussian Blur
 ---
 * Image Splicing involves introduction of artificial regions in an image so as to alter its original content.
 Potential image splicing was evaluated on a set of natural images.
 * Standard deviation of Gaussian blur for different blocks across the image were compared initially for
-detecting forgeries. This was improved upon later in NIT Silchar.
-* Ringing effects obtained after deblurring were instead used to check the authenticity of images.
+detecting forgeries.
+* Ringing effects obtained after deblurring were used to check the authenticity of images.
+[Please find the Project Description here](https://dasanurag.github.io/publications/)
 
 Classification of masses in mammograms into benign(normal) and malignant(cancerous)
 ---
