@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Academics"
+    url: /academics/
+
   - title: "Publications"
     url: /publications/
 
@@ -24,5 +27,4 @@ main:
   - title: "Contact"
     url: /contact/
 
-  - title: "Academics"
-    url: /academics/
+
