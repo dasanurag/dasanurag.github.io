@@ -15,5 +15,5 @@ CGPA secured in All India Secondary School Examination: 10(out of 10)
 
 GRE and TOEFL Scores
 ---
-* GRE Total Score:322, Quant:168, Verbal: 154, Analytical Writing:4
-* TOEFL Total Score:102, Reading:25, Listening:24, Speaking:27, Writing:26
+* GRE Total Score : 322, Quant : 168, Verbal : 154, Analytical Writing : 4
+* TOEFL Total Score : 102, Reading : 25, Listening: 24, Speaking : 27, Writing : 26
