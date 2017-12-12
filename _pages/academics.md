@@ -1,6 +1,6 @@
 ---
 permalink: /academics/
-title: "Academics"
+title: "Education"
 excerpt: "Education and Test Scores"
 author_profile: true
 ---
