@@ -20,9 +20,33 @@ Classification between spontaneous speech and rhythmic speech using talker's hea
 * To show the periodicity of head gestures, we use a measure based on the autocorrelation of the input signal. Using the information of peaks in the autocorrelation of an input signal, we achieve a highest periodicity of 0.489 in case of poems and a highest periodicity of 0.347 in case of stories.
 * We further perform a classification task to classify between spontaneous speech and rhythmic speech. We show that head gesture features perform comparably well to the acoustic features(MFCCs), with accuracies 89% and 96% approximately. We further show that combination of head gestures and acoustic features outperform the acoustic features.
 
-Online [automatic speech recognition](http://spire.ee.iisc.ac.in/asr-recorder/asr_template/index.php) and [Keyword Spotting Interface](http://spire.ee.iisc.ac.in/asr-recorder/kws_template/)
+Online [automatic speech recognition](http://spire.ee.iisc.ac.in/asr-recorder/asr_template/index.php) and [Keyword Spotting](http://spire.ee.iisc.ac.in/asr-recorder/kws_template/) Interface
 ---
-* The automatic speech recognition interface outputs a the set of words spoken in a live recorded file or in an uploaded audio file.
+* The automatic speech recognition interface outputs the set of words spoken in a live recorded file or in an uploaded audio file.
 * The keyword spottting interface outputs at what times, a list of keywords are detected in an audio file.
 * Deep neural networks trained on several datasets are used for this purpose.
 * The deep neural network outputting the least word error rate for each dataset is used.
+
+Copy-Move Forgery Detection Using ASIFT
+---
+* Copy Move forgeries in images represent forged regions which are duplicates of other regions from the same
+image. This is done so as to alter the original information in the image.
+* Compared affine transfored copy-move forgeries in images using Scale Invariant Feature Transform(SIFT)
+and affine SIFT(ASIFT).
+* Compared affine transfored copy-move forgeries in images using Scale Invariant Feature Transform(SIFT)
+and affine SIFT(ASIFT).
+
+Image Splicing Detection Using Gaussian Blur
+---
+* Image Splicing involves introduction of artificial regions in an image so as to alter its original content.
+Potential image splicing was evaluated on a set of natural images.
+* Standard deviation of Gaussian blur for different blocks across the image were compared initially for
+detecting forgeries. This was improved upon later in NIT Silchar.
+* Ringing effects obtained after deblurring were instead used to check the authenticity of images.
+
+Classification of masses in mammograms into benign(normal) and malignant(cancerous)
+---
+* Given a set of mammogram images, we tried to classify normal masses(benign) from potentially cancerous
+masses(malignant).
+* An artificial neural network was used for the classification. 
+* Features were extracted on images from mini-MIAS dataset.
