@@ -12,3 +12,17 @@ Some of the research statements we seek to address in this project, include:-
 * Can we introduce an efficent keyword-spotting system which not only gives accurate 
 results but also takes small execution time, suitable for real-time applications?
 * Can we overcome the large training data restrictions usually required for producing reliable keyword spotting results?
+
+Classification between spontaneous speech and rhythmic speech using talker's head gestures
+---
+* In this work, we show that head gestures while reciting poems(rhythmic speech) have more periodic structure than while reciting spontaneous speech.
+* We use a dataset of 10 subjects reciting 20 poems and a seperate set of 20 subjects narrating 5 stories. We measure the head gestures of the subjects using an Optitrack setup. We calculate three degrees of rotation and three degrees of translation of the head gestures and use it as a six dimension feature vector.
+* To show the periodicity of head gestures, we use a measure based on the autocorrelation of the input signal. Using the information of peaks in the autocorrelation of an input signal, we achieve a highest periodicity of 0.489 in case of poems and a highest periodicity of 0.347 in case of stories.
+* We further perform a classification task to classify between spontaneous speech and rhythmic speech. We show that head gesture features perform comparably well to the acoustic features(MFCCs), with accuracies 89% and 96% approximately. We further show that combination of head gestures and acoustic features outperform the acoustic features.
+
+Online [automatic speech recognition](http://spire.ee.iisc.ac.in/asr-recorder/asr_template/index.php) and [Keyword Spotting Interface](http://spire.ee.iisc.ac.in/asr-recorder/kws_template/)
+---
+* The automatic speech recognition interface outputs a the set of words spoken in a live recorded file or in an uploaded audio file.
+* The keyword spottting interface outputs at what times, a list of keywords are detected in an audio file.
+* Deep neural networks trained on several datasets are used for this purpose.
+* The deep neural network outputting the least word error rate for each dataset is used.
