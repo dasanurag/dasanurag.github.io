@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Contact"
+excerpt: "Contact me"
 permalink: /contact/
 author_profile: true
 ---
-
-
 Pleace use the following contact information.
 
 * Email : das.anurag2012[at]gmail.com,anuragd[at]iisc.ac.in
