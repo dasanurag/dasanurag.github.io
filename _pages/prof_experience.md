@@ -9,6 +9,7 @@ Project Assistant
 ---
 ##### May 2017 - Present <br/>
 Signal Processing Interpretation and Representation Lab(SPIRE),<br/>
+Department of Electrical Engineering,
 Indian Institute of Science, Bangalore, India - 560012
 
 Graduate Engineer Trainee, Base Station Subsystem(BSS) Engineer
@@ -23,5 +24,6 @@ Research Intern
 ---
 ##### May 2015 - July 2015 <br/>
 Image and Signal Processing Lab,<br/>
+Department of Electrical Engineering,
 Indian Institute of Technology, Guwahati,<br/>
 Guwahati, Assam, India - 781039
