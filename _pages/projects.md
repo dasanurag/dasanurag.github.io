@@ -24,7 +24,7 @@ Classification between spontaneous speech and rhythmic speech using talker's hea
 
 Online [automatic speech recognition](http://spire.ee.iisc.ac.in/asr-recorder/asr_template/index.php) and [Keyword Spotting](http://spire.ee.iisc.ac.in/asr-recorder/kws_template/) Interface
 ---
-### Advisor : Prasanta Kumar Ghosh<br/>
+### Advisor : Dr. Prasanta Kumar Ghosh<br/>
 * The automatic speech recognition interface outputs the set of words spoken in a live recorded file or in an uploaded audio file.
 * The keyword spottting interface outputs at what times, a list of keywords are detected in an audio file.
 * Deep neural networks trained on several datasets are used for this purpose.
