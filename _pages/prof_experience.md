@@ -11,7 +11,7 @@ Project Assistant
 Signal Processing Interpretation and Representation Lab(SPIRE),<br/>
 Indian Institute of Science, Bangalore, India - 560012
 
-Gradaute Engineer Trainee, Base Station Subsystem Engineer
+Graduate Engineer Trainee, Base Station Subsystem(BSS) Engineer
 ---
 ##### August 2016 - April 2017 <br/>
 Idea Cellular Limited,<br/>
