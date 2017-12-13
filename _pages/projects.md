@@ -5,7 +5,7 @@ excerpt: "Projects"
 author_profile: true
 ---
 
-Automatic Speech Reognition and Keyword Spotting in Continous Speech
+Automatic Speech Reognition and Keyword Spotting in Continuous Speech
 ---
 ### Advisor : Dr. Prasanta Kumar Ghosh<br/>
 Some of the research statements we seek to address in this project, include:-
