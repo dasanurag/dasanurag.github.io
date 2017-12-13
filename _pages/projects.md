@@ -32,7 +32,7 @@ Online [automatic speech recognition](http://spire.ee.iisc.ac.in/asr-recorder/as
 
 Copy-Move Forgery Detection Using ASIFT
 ---
-### Advisor : Ram Kumar Karsh<br/>
+### Advisor : Prof. Ram Kumar Karsh<br/>
 * Copy Move forgeries in images represent forged regions which are duplicates of other regions from the same
 image. This is done so as to alter the original information in the image.
 * Compared affine transfored copy-move forgeries in images using Scale Invariant Feature Transform(SIFT)
@@ -43,7 +43,7 @@ These images were used for training and testing. AISFT was later shown to outper
 
 Image Splicing Detection Using Gaussian Blur
 ---
-### Advisor : Dr. Pravin Kumar Bora, Ram Kumar Karsh<br/>
+### Advisor : Dr. Pravin Kumar Bora, Prof. Ram Kumar Karsh<br/>
 * Image Splicing involves introduction of artificial regions in an image so as to alter its original content.
 Potential image splicing was evaluated on a set of natural images.
 * Standard deviation of Gaussian blur for different blocks across the image were compared initially for
