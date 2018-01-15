@@ -16,3 +16,5 @@ I have also worked in [Idea Cellular Limited](http://www.ideacellular.com/), as 
 ensuring seamless performance of all 2G and 3G sites, installing new and upgrading existing microwave links between sites and ensuring all site related outages are dealt with at the earliest.
 
 Apart from this, I'm also a chess enthusiast and often frequent online platforms such as lichess and chess.com, for a game or two.
+
+Please find the link to my most updated CV [here](https://indianinstituteofscience-my.sharepoint.com/personal/anuragd_iisc_ac_in/_layouts/15/guestaccess.aspx?docid=0f77d0f2e1d304093b96bf75a9ec8cc21&authkey=AcVX9LqG5qvNdh5mBwPKeE8&e=YRo0w2). 
