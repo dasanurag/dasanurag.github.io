@@ -70,9 +70,9 @@ social:
 
 
 # Analytics
-analytics: UA-113627369-1
+analytics: 
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  google: UA-113627369-1
     tracking_id          : UA-113627369-1
 
 
