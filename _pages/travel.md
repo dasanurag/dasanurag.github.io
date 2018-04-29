@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Travel"
+permalink: /travel/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+From time to time I like to go on a vacation and explore places. To know more about my escapades, please go this [link](https://brolylssj38.wixsite.com/mysite). Please note the link is still a work in progress and one may notice few issues. 
