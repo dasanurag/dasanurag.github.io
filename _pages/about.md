@@ -17,4 +17,7 @@ ensuring seamless performance of all 2G and 3G sites, installing new and upgradi
 
 Apart from this, I'm also a chess enthusiast and often frequent online platforms such as lichess and chess.com, for a game or two.
 
+Update April 2018:
+Our paper on "Classification between spontaneous speech and rhythmic speech using talker’s head gestures" got accepted in International Conference on Communication and Signal Processing(SPCOM),2018. Please find the link to the paper [here](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/anuragd_iisc_ac_in/EUn1NTxhchFEoXtqBHeorfQBDdXEIhUenSvj79tUbOkk_Q?e=sbZMUs).
+
 Please find the link to my most updated CV [here](https://indianinstituteofscience-my.sharepoint.com/personal/anuragd_iisc_ac_in/_layouts/15/guestaccess.aspx?docid=0f77d0f2e1d304093b96bf75a9ec8cc21&authkey=AcVX9LqG5qvNdh5mBwPKeE8&e=YRo0w2). 
