@@ -11,9 +11,9 @@ venue: '12th International Conference on Signal Processing and Communication(SPC
 <!-- 
 paperurl: 'http://ieeexplore.ieee.org/abstract/document/7975329/'
 DOI: '10.1109/IICIP.2016.7975329'
---!>
+-->
 ---
-In this work, we show that head gestures while reciting poems(rhythmic speech) have more periodic structure than while reciting spontaneous speech.
+In this work, we show that head gestures while reciting poems(rhythmic speech) have more periodic structure than while narrating stories.
 We use a dataset of 10 subjects reciting 20 poems and a seperate set of 20 subjects, each narrating 5 stories. 
 To show the periodicity of head gestures, we use a measure based on the autocorrelation of the input signal. 
 Using the information of peaks in the autocorrelation of an input signal, we achieve a highest periodicity of 0.489 in case of poems and a highest periodicity of 0.347 in case of stories.
