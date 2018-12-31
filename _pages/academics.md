@@ -5,6 +5,9 @@ excerpt: "Education and Test Scores"
 author_profile: true
 ---
 
+* Master of Science(MS) in Computer Engineering from
+[Texas A&M University, College Station](https://www.tamu.edu/),
+Texas, USA(GPA : 4.0) 
 * Bachelor of Technology(BTECH) in Electronics and Communication Engineering from 
 [National Institute of Technology, Silchar(NIT Silchar)](http://www.nits.ac.in/),
 Assam, India(CGPA : 8.91).
