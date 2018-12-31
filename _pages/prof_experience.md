@@ -4,10 +4,6 @@ title: "Professional Experience"
 excerpt: "Professional Experience"
 author_profile: true
 ---
-##### May 2017 - August 2018 <br/>
-Signal Processing Interpretation and Representation Lab(SPIRE),<br/>
-Department of Electrical Engineering,
-Indian Institute of Science, Bangalore, India - 560012
 
 Project Assistant
 ---
