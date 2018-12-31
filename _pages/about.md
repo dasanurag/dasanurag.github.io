@@ -2,13 +2,17 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-author_profile: true
+author_profile: tr
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm Anurag, currently working as a Project Assistant in [SPIRE Lab](http://spire.ee.iisc.ac.in/) in the Electrical Engineering Department of [Indian Institute of Science, Bangalore](http://iisc.ac.in/). I'm working under the supervision of [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/people/faculty/prasantg/) on problems related to Automatic Speech Recognition and Keyword Spotting. 
+Hi, I'm Anurag, currently a Master's student in Computer Engineering in Texas A&M University. I'm working under the
+supervision of [Dr. Ricardo Gutierrez Osuna](https://engineering.tamu.edu/cse/profiles/rgutierrez-osuna.html) on
+problems related to voice conversion.
+
+Previously, I worked as a Project Assistant in [SPIRE Lab](http://spire.ee.iisc.ac.in/) in the Electrical Engineering Department of [Indian Institute of Science, Bangalore](http://iisc.ac.in/), under the supervision of [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/people/faculty/prasantg/) on problems related to Automatic Speech Recognition and Keyword Spotting. 
 
 I graduated in Electronics and Communication Engineering from [NIT Silchar](http://www.nits.ac.in/), 2016 with GPA of 8.91(out of 10) and a department rank of 8. I'm interested in the areas of **speech recognition with noisy or unclean data, image forensics, computer vision, human computer interaction and Biomedical Signal Processing**. I'm particularly interested in applied machine learning research in different problems of Signal Processing.
 
