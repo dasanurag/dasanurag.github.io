@@ -1,3 +1,4 @@
+---
 title: "Classification between story-telling and poem recitaiton using head gestures of the talker"
 collection: publications
 excerpt: 'In this work, we show that head gestures while reciting poems(rhythmic speech) have more periodic structure than while narrating stories.
