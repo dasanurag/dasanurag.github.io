@@ -4,6 +4,11 @@ title: "Projects"
 excerpt: "Projects"
 author_profile: true
 ---
+Study Tracker
+---
+A web application that allows students to enter their study schedule, keep track of their routines, and check on which schedules they are lagging behind.
+[App link](https://studytracker-tamu.herokuapp.com)
+[Github link](https://github.com/HolyRail/Study-Tracker)
 
 Automatic Speech Reognition and Keyword Spotting in Continuous Speech
 ---
