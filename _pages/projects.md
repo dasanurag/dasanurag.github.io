@@ -6,7 +6,7 @@ author_profile: true
 ---
 Real Time Formant Visualization Application
 ---
-Developed an application that helps track vowel sounds(formants) in real time. The project uses a combination of Pyaudio to capture microphone input, Praat binaries to obtain formant values from each audio chunk, D3 a Javascript to plot these formants in real time.<br/>
+Developed an application that helps track vowel sounds(formants) in real time. The project uses a combination of Pyaudio to capture microphone input, Praat binaries to obtain formant values from each audio chunk, D3 a Javascript library to plot these formants in real time.<br/>
 [Link to demo](https://youtu.be/vqly1eJY7gI1)
 
 Study Tracker
