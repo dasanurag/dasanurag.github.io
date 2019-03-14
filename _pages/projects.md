@@ -6,8 +6,8 @@ author_profile: true
 ---
 Study Tracker
 ---
-A web application that allows students to enter their study schedule, keep track of their routines, and check on which schedules they are lagging behind.
-[App link](https://studytracker-tamu.herokuapp.com)
+A web application that allows students to enter their study schedule, keep track of their routines, and check on which schedules they are lagging behind. The link to the app and the code are as follows:-
+[App link](https://studytracker-tamu.herokuapp.com)<br/>
 [Github link](https://github.com/HolyRail/Study-Tracker)
 
 Automatic Speech Reognition and Keyword Spotting in Continuous Speech
