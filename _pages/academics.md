@@ -5,7 +5,7 @@ excerpt: "Education and Test Scores"
 author_profile: true
 ---
 
-* Master of Science(PhD) in Computer Engineering from
+* Doctor of Philosophy (PhD) in Computer Engineering from
 [Texas A&M University, College Station](https://www.tamu.edu/),
 Texas, USA 
 * Bachelor of Technology(BTECH) in Electronics and Communication Engineering from 
