@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Anurag, currently a PhD student in Computer Engineering in Texas A&M University. My research interests are in
-voice and accent conversion. I'm also interested in developing systems for automatic glucose monitoring by analyzing data from continuous glucose monitors.
+Hi, I'm Anurag, currently a PhD student in Computer Engineering in Texas A&M University. My research interests are developing digital health solutions for monitoring diabetes using continuous glucose monitors. I'm also interested in research in speech processing such as speech recognition, speech synthesis applications such as voice and accent conversion.  
 
 Previously, I worked as a Project Assistant in [SPIRE Lab](http://spire.ee.iisc.ac.in/) in the Electrical Engineering Department of [Indian Institute of Science, Bangalore](http://iisc.ac.in/), under the supervision of [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/people/faculty/prasantg/) on problems related to Automatic Speech Recognition and Keyword Spotting. 
 
