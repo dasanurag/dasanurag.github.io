@@ -5,8 +5,5 @@ excerpt: 'In this paper, we identify affine transform based Copy-Move forgeries 
 date: 2016-07-13
 venue: 'India International Conference of Information Processing(IICIP)'
 paperurl: 'http://ieeexplore.ieee.org/abstract/document/7975329/'
-DOI: '10.1109/IICIP.2016.7975329'
 ---
 
-
-DOI: '10.1109/IICIP.2016.7975329'
