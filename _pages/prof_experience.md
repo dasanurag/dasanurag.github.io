@@ -15,6 +15,7 @@ Texas A&M Unviersity (TAMU), College Station, TX - 77843
 Research Assistant
 ---
 ##### January 2020 - Present <br/>
+Perception, Sensing, and Instrumentation Lab,
 Department of Computer Science and Engineering,
 Texas A&M Unviersity (TAMU), College Station, TX - 77843
 
