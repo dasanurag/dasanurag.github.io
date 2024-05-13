@@ -8,6 +8,7 @@ We further perform a classification task to classify between spontaneous speech 
 We show that head gesture features perform comparably well to the acoustic features(MFCCs), with accuracies 89% and 96% approximately. We further show that combination of head gestures and acoustic features outperform the acoustic features.'
 date: 2018-11-08
 venue: '12th International Conference on Signal Processing and Communication(SPCOM)'
+paperurl: '[http://ieeexplore.ieee.org/abstract/document/7754350/](https://ieeexplore.ieee.org/abstract/document/8724420)'
 ---
 In this work, we show that head gestures while reciting poems(rhythmic speech) have more periodic structure than while narrating stories.
 We use a dataset of 10 subjects reciting 20 poems and a seperate set of 20 subjects, each narrating 5 stories. 
