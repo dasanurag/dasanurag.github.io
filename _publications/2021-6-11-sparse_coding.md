@@ -4,7 +4,7 @@ collection: publications
 excerpt: 'Measuring dietary intake is a major challenge in the management of chronic diseases. Current methods rely on self-report measures,
 which are cumbersome to obtain and often unreliable. This article presents an approach to estimate dietary intake automatically by analyzing the post-prandial glucose response (PPGR) of a meal, as measured with continuous glucose monitors. In particular, we propose a sparse-coding technique that can be used to estimate the amounts of macronutrients (carbohydrates, protein, fat) in a meal from the meal’s PPGR. We use Lasso regularization to represent the PPGR of a new meal as a sparse combination of PPGRs in a dictionary, then combine the sparse weights with the macronutrient amounts in the dictionary’s meals to estimate the macronutrients in the new meal. We evaluate the approach on a dataset containing nine standardized meals and their corresponding PPGRs, consumed by fifteen participants. The proposed technique consistently outperforms two baseline systems based on ridge regression and nearest-neighbors, in terms of correlation and normalized root mean square error of the predictions.'
 date: 2021-6-11
-venue: 'ICASSP 2021'
+venue: 'ICASSP'
 paperurl: '[https://psi.engr.tamu.edu/wp-content/uploads/2021/08/ICASSP_2021_AnuragDas.pdf](https://psi.engr.tamu.edu/wp-content/uploads/2021/08/ICASSP_2021_AnuragDas.pdf)'
 ---
 Measuring dietary intake is a major challenge in the management of chronic diseases. Current methods rely on self-report measures,
