@@ -5,6 +5,32 @@ excerpt: "Professional Experience"
 author_profile: true
 ---
 
+Teaching Assistant
+---
+##### January 2024 - May 2024 <br/>
+Senior Capstone Design (CSE 482),<br/>
+Department of Computer Science and Engineering,
+Texas A&M Unviersity (TAMU), College Station, TX - 77843
+
+Research Assistant
+---
+##### January 2020 - Present <br/>
+Department of Computer Science and Engineering,
+Texas A&M Unviersity (TAMU), College Station, TX - 77843
+
+Teaching Assistant
+---
+##### August 2019 - December 2019 <br/>
+Programming Studio (CSE 315),<br/>
+Department of Computer Science and Engineering,
+Texas A&M Unviersity (TAMU), College Station, TX - 77843
+
+Software Engineering Intern
+---
+##### June 2019 - August 2019 <br/>
+Department of Agriculture,
+Prairie View A&M University (PVAMU), Prairie View, TX - 77446
+
 Project Assistant
 ---
 ##### May 2017 - August 2018 <br/>
