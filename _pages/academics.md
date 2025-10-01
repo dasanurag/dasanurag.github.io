@@ -8,7 +8,7 @@ author_profile: true
 * Doctor of Philosophy (PhD) in Computer Engineering from
 [Texas A&M University, College Station](https://www.tamu.edu/),
 Texas, USA 
-* Bachelor of Technology(BTECH) in Electronics and Communication Engineering from 
+* Bachelor of Technology (BTECH) in Electronics and Communication Engineering from 
 [National Institute of Technology, Silchar(NIT Silchar)](http://www.nits.ac.in/),
 Assam, India.
 * Higher Secondary education from [Army Public School, Narangi](http://www.apsnarangi.com/), Assam, India.
